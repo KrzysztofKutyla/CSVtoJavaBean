@@ -30,7 +30,7 @@ public class Bean {
 
 	@Override
 	public String toString() {
-		return "Bean [id=" + id + ", imi�=" + name + ", surname=" + surname + ", email=" + email + ", gender="
+		return "Bean [id=" + id + ", name" + name + ", surname=" + surname + ", email=" + email + ", gender="
 				+ gender + ", ip_adress=" + ip_adress + ", company_name=" + company_name + ", country=" + country
 				+ ", language=" + language + ", description=" + description + "]";
 	}
