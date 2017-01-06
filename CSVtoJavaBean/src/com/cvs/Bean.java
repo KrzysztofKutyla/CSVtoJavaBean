@@ -12,6 +12,7 @@ public class Bean {
 	String country;
 	String language;
 	String description;
+	
 
 	public Bean(int id, String name, String surname, String email, String gender, String ip_adress,
 			String company_name, String country, String language, String description) {
